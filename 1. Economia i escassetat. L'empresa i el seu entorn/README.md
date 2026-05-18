@@ -273,7 +273,7 @@ ODS adoptats per l'ONU per abordar reptes econòmics, socials i ambientals. Els 
 #### Creixement Intern (Matriu d'Ansoff)
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%204.png" width="680" height="auto"/>
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%204.png" width="540" height="auto"/>
     <p><em>Figura 3: Matriu d'Ansoff</em></p>
   </div>
   
