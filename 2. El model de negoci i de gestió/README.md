@@ -31,7 +31,7 @@
 1. **Selecció del personal** – tria les persones més adequades per a cada lloc de treball
 2. **Gestió del personal** – contractació, formació, motivació, salaris, permisos, etc.
 
----
+<br>
 
 ## 2.2. La Direcció Empresarial. Estructures Organitzatives
 
@@ -141,6 +141,11 @@ Les **organitzacions Teal** posen el capital humà com a protagonista i simplifi
 | **Horitzontal** | Les unitats de direcció a l'esquerra i les subordinades a la dreta; destaca les funcions |
 | **Radial** | Impacte visual; la direcció general al centre; menys habitual |
 
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%208.png" width="740" height="auto"/>
+    <p><em>Figura 1: Classificació segons la forma</em></p>
+  </div>
+
 ### Funció de Gestió o Direcció
 
 > Consisteix a aconseguir que les persones de l'empresa duguin a terme les tasques necessàries per assolir els objectius.
@@ -174,7 +179,7 @@ Les **organitzacions Teal** posen el capital humà com a protagonista i simplifi
 | **Auditoria interna** | Control intern que verifica la rendibilitat dels recursos i la gestió global |
 | **Estadística** | Comparar dades històriques, treure conclusions i fer pronòstics |
 
----
+<br>
 
 ## 2.3. La Gestió dels Recursos Humans. Contractació, Relacions Laborals i Polítiques d'Igualtat
 
@@ -216,6 +221,7 @@ Les **organitzacions Teal** posen el capital humà com a protagonista i simplifi
 5. Normes laborals de la UE    →  Marc de referència europeu (condicions mínimes)
 ```
 
+> [!IMPORTANT]
 > La **negociació col·lectiva** és el procés per arribar a un acord sobre les condicions de l'activitat laboral.
 > Un **conveni col·lectiu** és la norma que en resulta i regula les relacions laborals d'un sector.
 
@@ -255,7 +261,7 @@ Les **organitzacions Teal** posen el capital humà com a protagonista i simplifi
 4. Implementar i controlar amb indicadors de seguiment
 5. Avaluar i revisar el pla
 
----
+<br>
 
 ## 2.4. Àrea de Producció: Eficiència i Productivitat
 
@@ -305,9 +311,10 @@ P_global = ───────────────────────
 | **Eficiència tècnica** | Una tècnica és millor si produeix **més** amb els mateixos recursos, o el **mateix** amb menys |
 | **Eficiència econòmica** | Una tècnica és millor si produeix **més** amb el mateix cost, o el **mateix** amb menys cost |
 
-> ⚠️ Per decidir la tècnica més eficient, primer s'eliminen les tècniques ineficients tècnicament i després es comparen els costos de les restants.
+> [!IMPORTANT]
+> Per decidir la tècnica més eficient, primer s'eliminen les tècniques ineficients tècnicament i després es comparen els costos de les restants.
 
----
+<br>
 
 ## 2.5. Estructura d'Ingressos i Costos. Punt Mort
 
@@ -352,22 +359,17 @@ On:
 
 **Interpretació gràfica:**
 
-```
-Ingressos/Costos
-      │          /  I = p·Q
-      │        /
-      │      / Beneficis
-      │    ●  ← Punt mort (Q*)
-      │  /  \
-      │/    Pèrdues    CT = CF + Cvu·Q
-      │──────────────────────────────→ Q
-             Q*        2Q*
-```
+https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2013.png
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2013.png" width="650" height="auto"/>
+    <p><em>Figura 2: Llindar de rendibilitat</em></p>
+  </div>
 
 - Si Q > Q\* → **beneficis**
 - Si Q < Q\* → **pèrdues**
 
----
+<br>
 
 ## 2.6. Estratègies Comercials i de Màrqueting
 
@@ -409,16 +411,10 @@ Ingressos/Costos
 
 ### Cicle de Vida del Producte
 
-```
-Vendes
-  │         ╭────────╮
-  │       ╭─╯        ╰─╮
-  │     ╭─╯            ╰──╮
-  │   ╭─╯                 ╰────
-  │──╭╯
-  └──────────────────────────→ Temps
-     Intro  Creixement  Maduresa  Declivi
-```
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2014.png" width="650" height="auto"/>
+    <p><em>Figura 3: Cicle de venda d'un producte</em></p>
+  </div>
 
 | Fase | Característiques | Estratègia empresa |
 |---|---|---|
@@ -472,7 +468,7 @@ Canal indirecte llarg:  Fabricant → Majorista → Detallista → Consumidor
 | **Participació** | Creació de comunitats participatives digitals i offline | Starbucks: clients creen productes |
 | **Predicció** | Anàlisi de dades per predir el comportament i adaptar campanyes | Facebook, Amazon |
 
----
+<br>
 
 ## 2.7. Estructura de les Inversions i Fonts de Finançament
 
@@ -533,13 +529,14 @@ Canal indirecte llarg:  Fabricant → Majorista → Detallista → Consumidor
 
 ```
 Si els fluxos són iguals:         Si els fluxos no són iguals:
-        D₀                        Sumar els fluxos fins arribar a D₀.
+            D₀                    Sumar els fluxos fins arribar a D₀.
 Pay-back = ────                   Si cau entre dos períodes, calcular
-        F                         la fracció de temps proporcional.
+            F                     la fracció de temps proporcional.
 ```
 
-- S'escull la inversió amb el **pay-back més curt**
-- ⚠️ No té en compte la magnitud dels fluxos ni el desemborsament inicial
+> [!IMPORTANT]
+> S'escull la inversió amb el **pay-back més curt**
+> No té en compte la magnitud dels fluxos ni el desemborsament inicial
 
 #### Mètode Dinàmic: VAN (Valor Actual Net)
 
@@ -569,6 +566,7 @@ VAN = –D₀ + ────── + ────────── + ... + ─�
 | **r = i** | Indiferent | Només es recupera la inversió |
 | **r > i** | Fer la inversió | La rendibilitat supera el cost del capital |
 
+> [!IMPORTANT]
 > Entre diverses inversions amb r > i, s'escull la que tingui la **TIR més alta**.
 
 ### Fonts de Finançament
@@ -618,7 +616,7 @@ VAN = –D₀ + ────── + ────────── + ... + ─�
 | **Crèdit comercial** | Finançament automàtic: pagar les compres als proveïdors en 30, 60 o 90 dies (sense cost) |
 | **Facturatge** | Cessió del 100% de la facturació d'un client a una entitat financera; anticipa ~80% del valor |
 
----
+<br>
 
 ## 2.8. Comptes Anuals: Balanç de Situació i Compte de Pèrdues i Guanys
 
@@ -656,44 +654,27 @@ ACTIU = PATRIMONI NET + PASSIU
 
 **Criteri d'ordenació del passiu:** de **menys a més exigibilitat** (termini per complir l'obligació).
 
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2015.png" width="850" height="auto"/>
+    <p><em>Figura 4: Balanç de situació</em></p>
+  </div>
+
 ### El Compte de Pèrdues i Guanys
 
 > Estat comptable que calcula el **resultat** obtingut durant un exercici econòmic.
 
-```
-COMPTE DE PÈRDUES I GUANYS
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2016.png" width="850" height="auto"/>
+    <p><em>Figura 5: Pèrdues i guanys</em></p>
+  </div>
 
-(1) Ingressos d'explotació
-    a) Import net de la xifra de negocis (vendes)
-    b) Variació d'existències de productes acabats (±)
-    c) Altres ingressos d'explotació
-
-(2) Despeses d'explotació
-    a) Aprovisionaments (compres ± variació d'existències)
-    b) Despeses de personal
-    c) Amortització de l'immobilitzat
-    d) Altres despeses d'explotació
-
-A) RESULTAT D'EXPLOTACIÓ (1 – 2) = BAII
-
-(3) Ingressos financers
-(4) Despeses financeres
-
-B) RESULTAT FINANCER (3 – 4)
-
-C) RESULTAT ABANS D'IMPOSTOS (A + B) = BAI
-
-(5) Impost sobre beneficis (23% si factura < 1M€ / 25% si factura > 1M€)
-
-D) RESULTAT DE L'EXERCICI (C – 5) = BENEFICI NET (BN)
-```
 
 | Resultat | Situació |
 |---|---|
 | **Ingressos > Despeses** | Guanys (benefici) |
 | **Despeses > Ingressos** | Pèrdues |
 
----
+<br>
 
 ## 2.9. Anàlisi de Resultats: Estats Financers i Informació Comptable
 
@@ -760,7 +741,8 @@ FM = (Patrimoni Net + Passiu No Corrent) – Actiu No Corrent
 | **Endeutament (E)** | Passiu / (Patrimoni net + Passiu) | 0,4 – 0,6 | Grau de dependència del finançament aliè |
 | **Estructura del deute (Q)** | Passiu corrent / Passiu | 0,2 – 0,5 | Percentatge del deute que és a curt termini |
 
-> ⚠️ Els valors òptims són **orientatius**; cada sector pot tenir valors òptims diferents.
+> [!IMPORTANT]
+> Els valors òptims són **orientatius**; cada sector pot tenir valors òptims diferents.
 
 ### Mesures Correctores dels Desequilibris Financers
 
@@ -820,8 +802,5 @@ rf = ─────────────── · ──────── �
 | **Rotació** | Reduir l'actiu o incrementar les vendes |
 | **Palanquejament** | Incrementar l'actiu o reduir els recursos propis (endeutament) |
 
-> 💡 El **palanquejament** té un efecte positiu (multiplicador) sobre la rendibilitat financera sempre que el cost del capital sigui inferior a la rendibilitat econòmica (`r < re`).
-
----
-
-*Font: Apunts de Funcionament de l'Empresa i Disseny de Models de Negoci — 2n Batxillerat*
+> [!WARNING]
+> El **palanquejament** té un efecte positiu (multiplicador) sobre la rendibilitat financera sempre que el cost del capital sigui inferior a la rendibilitat econòmica (`r < re`).
