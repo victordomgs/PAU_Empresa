@@ -359,8 +359,6 @@ On:
 
 **Interpretació gràfica:**
 
-https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2013.png
-
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2013.png" width="650" height="auto"/>
     <p><em>Figura 2: Llindar de rendibilitat</em></p>
@@ -655,7 +653,7 @@ ACTIU = PATRIMONI NET + PASSIU
 **Criteri d'ordenació del passiu:** de **menys a més exigibilitat** (termini per complir l'obligació).
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2015.png" width="850" height="auto"/>
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2015.png" width="550" height="auto"/>
     <p><em>Figura 4: Balanç de situació</em></p>
   </div>
 
@@ -664,7 +662,7 @@ ACTIU = PATRIMONI NET + PASSIU
 > Estat comptable que calcula el **resultat** obtingut durant un exercici econòmic.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2016.png" width="850" height="auto"/>
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%2016.png" width="650" height="auto"/>
     <p><em>Figura 5: Pèrdues i guanys</em></p>
   </div>
 
