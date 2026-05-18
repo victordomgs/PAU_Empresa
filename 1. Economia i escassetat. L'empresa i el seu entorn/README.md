@@ -22,15 +22,10 @@
 
 ### Flux Circular de la Renda
 
-```
-FAMÍLIES ←→ MERCAT DE FACTORS ←→ EMPRESES
-    ↕                                    ↕
-SECTOR PÚBLIC (impostos, subvencions, béns i serveis)
-    ↕                                    ↕
-FAMÍLIES ←→ MERCAT DE BÉNS ←→ EMPRESES
-```
-
----
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%201.png" width="680" height="auto"/>
+    <p><em>Figura 1: Flux circuar de a renda</em></p>
+  </div>
 
 ## 1.2. Identificació de les Característiques del Perfil Emprenedor
 
@@ -112,10 +107,11 @@ Document que quantifica i fa seguiment de les dades socials de l'empresa. Inclou
 - Cadenes de subministrament sostenibles
 
 **Fases d'elaboració:**
-```
-1. Grups d'interès → 2. Definir indicadors → 3. Recopilar informació
-                  → 4. Analitzar resultats → 5. Elaborar l'informe final
-```
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%203.png" width="540" height="auto"/>
+    <p><em>Figura 2: Fases d'elaboració</em></p>
+  </div>
 
 ### Objectius de Desenvolupament Sostenible (ODS) — Agenda 2030
 
@@ -276,11 +272,11 @@ ODS adoptats per l'ONU per abordar reptes econòmics, socials i ambientals. Els 
 
 #### Creixement Intern (Matriu d'Ansoff)
 
-|  | **Productes tradicionals** | **Productes nous** |
-|---|---|---|
-| **Mercats tradicionals** | Penetració en el mercat | Desenvolupament de productes |
-| **Mercats nous** | Desenvolupament de mercats | Diversificació |
-
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%204.png" width="540" height="auto"/>
+    <p><em>Figura 3: Matriu d'Ansoff</em></p>
+  </div>
+  
 **Estratègia d'especialització / expansió:**
 - **Penetració en el mercat** – vendre més als mateixos clients (*ex: ofertes telefòniques*)
 - **Desenvolupament de mercats** – nous segments o zones (*ex: Cola-Cao dirigit a adults*)
@@ -325,6 +321,11 @@ per igual                         (sobre el qual l'empresa pot tenir cert contro
 | **Tecnològic** | Innovacions i avenços tecnològics | Nous materials, novetat de programari, TIC |
 | **Ecològic** | Aspectes mediambientals | Canvi climàtic, polítiques mediambientals |
 | **Legal** | Lleis i normatives aplicables | Propietat intel·lectual, normatives, llicències |
+
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%206.png" width="540" height="auto"/>
+    <p><em>Figura 4: PESTEL</em></p>
+  </div>
 
 ### Entorn Específic: Les Cinc Forces de Porter
 
