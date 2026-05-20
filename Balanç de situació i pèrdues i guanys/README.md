@@ -102,6 +102,7 @@ Segons si els elements estan pensats per quedar-se a l'empresa a llarg termini o
 > [!TIP]
 > - La factura del client és un actiu molt líquid: generalment la cobrarem en 30 o 60 dies, convertint-se ràpidament en diners nets.
 > - L'edifici d'oficines és un actiu molt poc líquid: si el volguéssim vendre per aconseguir diners, trigaríem mesos, i la intenció de l'empresa és conservar-lo durant molts anys per poder treballar-hi.
+> 
 > Per tant, l'edifici s'anotarà a dalt de tot de l'Actiu (No Corrent) i el dret de cobrament del client s'anotarà més avall (Corrent).
 
   <div style="text-align: center;">
