@@ -30,6 +30,32 @@ Patrimoni net = Actiu - Passiu
   
 El Patrimoni net constitueix doncs una valoració monetària de la part del patrimoni empresarial que pertany als propietaris.
 
+<br>
+
+## 2. El Balanç de situació
+
+> [!IMPORTANT]
+> El **balanç** és el compte anual que reflecteix la situació patrimonial de l'empresa en un moment determinat del temps, normalment el 31 de desembre de cada any.
+
+Es pot dir que el balanç és com una fotografia del patrimoni de l'empresa.
+
+Consta de dues parts, en les quals s'agrupen els elements patrimonials: l'Actiu i el Patrimoni Net i Passiu
+
+Una altra manera d'interpretar l'Actiu i el Patrimoni net i el Passiu és la següent:
+
+| ACTIU | PATRIMONI NET I PASSIU     |
+|-------|----------------------------|
+| Béns i drets     | Patrimoni et         |
+|       | Obligacions (Passiu)       |
+
+> [!NOTE]
+- El Patrimoni net i el Passiu recullen la valoració en diners dels recursos obtinguts per l'empresa per finançar els béns i drets de l'Actiu (origen dels diners).
+- L'Actiu recull en què ha invertit l'empresa els recursos obtinguts (destí dels diners)
+
+
+
+
+
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%208.png" width="740" height="auto"/>
     <p><em>Figura 1: Classificació segons la forma</em></p>
