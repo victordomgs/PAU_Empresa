@@ -105,6 +105,25 @@ Segons si els elements estan pensats per quedar-se a l'empresa a llarg termini o
 > 
 > Per tant, l'edifici s'anotarà a dalt de tot de l'Actiu (No Corrent) i el dret de cobrament del client s'anotarà més avall (Corrent).
 
+### L'Actiu No Corrent Explicat
+
+| Categoria Principal | Element Patrimonial | Què significa? (Explicació senzilla) |
+| :--- | :--- | :--- |
+| **Immobilitzat Intangible** <br>*(Actius que no es poden tocar físicament, però que tenen valor)* | **Investigació i desenvolupament (R+D)** | Diners invertits a buscar nous coneixements o crear nous productes abans de fabricar-los en massa. |
+| | **Concessions administratives, propietat industrial i drets de traspàs** | Drets legals: llicències de l'ajuntament, patents inventades per l'empresa, marques registrades o els diners pagats per quedar-se un local de lloguer que ja funcionava. |
+| | **Aplicacions informàtiques** | Els programes d'ordinador, programari de gestió (ERP), disseny de pàgines web i les llicències de programes que utilitza l'empresa. |
+| **Immobilitzat Material** <br>*(Béns físics i tangibles que serveixen per a l'activitat diària)* | **Terrenys i béns naturals** | Els solars, finques, terrenys on està construïda la fàbrica o camps que són propietat de l'empresa (no s'inclou l'edifici, només el terra). |
+| | **Construccions** | Els edificis en si: les oficines, les naus industrials, els magatzems o els locals comercials propietat de l'empresa. |
+| | **Instal·lacions tècniques** | Conjunts complexos de maquinària, tubs, línies elèctriques o sistemes interconnectats que fan una funció conjunta a la fàbrica. |
+| | **Maquinària** | Les màquines utilitzades directament per fabricar els productes o realitzar l'activitat de l'empresa. |
+| | **Utillatge** | Les eines de mà (martells, tornavisos, motlles, broques) que es fan servir juntament amb la maquinària. |
+| | **Mobiliari** | Tot el mobiliari de les oficines o botigues: taules, cadires, armaris, estanteries i mostradors. |
+| | **Elements de transport** | Els vehicles que l'empresa utilitza per desplaçar-se o transportar mercaderies: cotxes d'empresa, camions, furgonetes, carretons elevadors, etc. |
+| | **Equips per a processos d'informació** | El maquinari informàtic: ordinadors, servidors, pantalles, impressores i telèfons mòbils. |
+| | **Altre immobilitzat material** | Qualsevol altre objecte físic de llarga durada que no encaixi en les definicions anteriors (per exemple, el material de seguretat o els aparells de l'oficina). |
+| **Inversions Immobiliàries** <br>*(Béns que l'empresa NO fa servir per treballar, sinó per guanyar diners com a inversió)* | **Inversions en Terrenys i Construccions** | Terrenys, pisos, naus o locals que l'empresa ha comprat únicament per llogar-los a tercers o per esperar que pugin de preu i vendre'ls (especulació). |
+| **Inversions Financeres a llarg termini** | **Inversions financeres a llarg termini** | Diners invertits fora de l'empresa que trigaran més d'un ano a recuperar-se. Exemples: accions d'altres empreses, fons d'inversió a llarg termini o fiances dipositades. |
+
   <div style="text-align: center;">
     <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/images/Figura%208.png" width="740" height="auto"/>
     <p><em>Figura 1: Classificació segons la forma</em></p>
