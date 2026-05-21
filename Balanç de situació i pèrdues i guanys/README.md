@@ -7,6 +7,7 @@
 
 - [1. El patrimoni empresarial](#1-el-patrimoni-empresarial)  
 - [2. El Balanç de situació](#2-el-balanç-de-situació)
+- [3. Pèrdues i guanys](#3-pèrdues-i-guanys)
 
 <br>
 
@@ -176,3 +177,70 @@ Deutes amb un termini de venciment igual o inferior a un any (proveïdors de mer
 | | **Deutes a curt termini** | Qualsevol altre tipus de deute amb terceres persones que venç en un termini inferior a un any i que no encaixa en les altres categories. |
 | | **Hisenda Pública, creditora per conceptes fiscals** | Diners que l'empresa ha retingut o recaptat i que ha de pagar a l'Estat (com l'IVA de les vendes, les retencions d'IRPF dels treballadors o l'Impost de Societats). |
 | | **Organismes de la Seguretat Social creditors** | Diners que l'empresa deu a la Seguretat Social corresponents a les quotes de cotització tant de l'empresa com dels seus treballadors. |
+
+<br>
+
+## 3. Pèrdues i guanys
+
+Imagina que tens una pastisseria. Durant tot l'any guanyes diners venent pastissos (ingressos) i gastes diners comprant farina, pagant el lloguer o els treballadors (despeses). Al final de l'any vols saber: he guanyat o he perdut diners? Doncs exactament això és el que calcula el compte de pèrdues i guanys.
+
+> [!IMPORTANT]
+> És un document comptable que mostra tots els ingressos i totes les despeses d'una empresa durant un any, i el resultat final (benefici o pèrdua).
+
+- **Ingressos:** el que cobra l'empresa.
+- **Despeses:** el que paga l'empresa.
+
+> [!IMPORTANT]
+> Si el resultat és positiu → benefici (l'empresa guanya). Si és negatiu → pèrdua (l'empresa perd diners).
+
+### Variació d'existències
+
+La variació d'existències és un dels punts més importants i alhora més confusos del compte de pèrdues i guanys. Existeixen dos tipus, i és fonamental no barrejar-los perquè cadascun funciona de manera diferent i va a un lloc diferent del compte.
+
+#### Tipus 1: Variació d'existències de productes acabats i en curs
+
+#### On va: als ingressos d'explotació.
+
+Fa referència als productes que l'empresa ha fabricat ella mateixa. Per exemple, una fàbrica de cadires que fabrica 1.000 unitats però en ven 800: les 200 restants han quedat al magatzem. Això té valor, i el compte de pèrdues i guanys ho ha de reflectir.
+
+Com es calcula:
+
+```
+Variació = Existències finals − Existències inicials
+```
+
+- Si les existències finals **són majors** que les inicials → la diferència se suma als ingressos. Significa que l'empresa ha produït més del que ha venut, i aquell producte acumulat representa valor generat.
+- Si les existències finals **són menors** que les inicials → la diferència es resta dels ingressos. Significa que l'empresa ha venut producte que ja tenia d'anys anteriors, i per tant ha "consumit" estoc previ.
+
+```
+Exemple:
+
+Existències inicials: 5.000 €
+Existències finals: 8.000 €
+Variació: 8.000 − 5.000 = +3.000 € → se suma als ingressos
+```
+
+#### Tipus 2: Variació d'existències comercials i matèries primeres
+
+#### On va: a les despeses d'explotació, dins la partida "aprovisionaments".
+
+Fa referència als materials que l'empresa ha comprat a proveïdors, ja sigui per revendre'ls directament o per transformar-los. La idea és que la despesa real no és el que has comprat, sinó el que realment has consumit o venut.
+
+Com es calcula:
+
+```
+Aprovisionaments = Compres + (Existències inicials − Existències finals)
+```
+
+- Si les existències finals **són majors** que les inicials → la diferència es resta de les compres (menys despesa). Significa que part del que has comprat ha quedat sense consumir al magatzem, i per tant no és una despesa real d'aquest any.
+- Si les existències finals **són menors** que les inicials → la diferència se suma a les compres (més despesa). Significa que has consumit més del que has comprat aquest any, tirant d'estoc que tenies d'abans.
+
+```
+Exemple:
+
+Compres: 20.000 €
+Existències inicials: 4.000 €
+Existències finals: 2.000 €
+Variació: 4.000 − 2.000 = 2.000 € → s'afegeix a les compres
+Aprovisionaments: 20.000 + 2.000 = 22.000 €
+```
