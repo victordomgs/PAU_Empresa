@@ -212,14 +212,6 @@ Variació = Existències finals − Existències inicials
 - Si les existències finals **són majors** que les inicials → la diferència se suma als ingressos. Significa que l'empresa ha produït més del que ha venut, i aquell producte acumulat representa valor generat.
 - Si les existències finals **són menors** que les inicials → la diferència es resta dels ingressos. Significa que l'empresa ha venut producte que ja tenia d'anys anteriors, i per tant ha "consumit" estoc previ.
 
-```
-Exemple:
-
-Existències inicials: 5.000 €
-Existències finals: 8.000 €
-Variació: 8.000 − 5.000 = +3.000 € → se suma als ingressos
-```
-
 #### Tipus 2: Variació d'existències comercials i matèries primeres
 
 #### On va: a les despeses d'explotació, dins la partida "aprovisionaments".
@@ -235,12 +227,103 @@ Aprovisionaments = Compres + (Existències inicials − Existències finals)
 - Si les existències finals **són majors** que les inicials → la diferència es resta de les compres (menys despesa). Significa que part del que has comprat ha quedat sense consumir al magatzem, i per tant no és una despesa real d'aquest any.
 - Si les existències finals **són menors** que les inicials → la diferència se suma a les compres (més despesa). Significa que has consumit més del que has comprat aquest any, tirant d'estoc que tenies d'abans.
 
-```
-Exemple:
+---
 
-Compres: 20.000 €
-Existències inicials: 4.000 €
-Existències finals: 2.000 €
-Variació: 4.000 − 2.000 = 2.000 € → s'afegeix a les compres
-Aprovisionaments: 20.000 + 2.000 = 22.000 €
-```
+### Exemples càlculs de variació d'existències
+
+#### Tipus 1: Productes acabats i en curs (va als ingressos)
+
+#### Exercici 1 — Existències finals > inicials
+
+Una empresa de mobles té les dades següents:
+- Vendes: 80.000 €
+- Existències inicials de productes acabats: 3.000 €
+- Existències finals de productes acabats: 7.000 €
+
+**Càlcul:**
+> Variació = Existències finals − Existències inicials = 7.000 − 3.000 = **+4.000 €**
+
+Com que el resultat és positiu, **se suma** als ingressos.
+
+| Ingressos d'explotació | |
+|---|---|
+| Vendes | 80.000 € |
+| + Variació exist. productes acabats | +4.000 € |
+| **Total ingressos d'explotació** | **84.000 €** |
+
+L'empresa ha fabricat producte que ha quedat al magatzem. Aquell producte té valor, per tant els ingressos augmenten.
+
+---
+
+#### Exercici 2 — Existències finals < inicials
+
+Una empresa de conserves té les dades següents:
+- Vendes: 60.000 €
+- Existències inicials de productes acabats: 8.000 €
+- Existències finals de productes acabats: 5.000 €
+
+**Càlcul:**
+> Variació = Existències finals − Existències inicials = 5.000 − 8.000 = **−3.000 €**
+
+Com que el resultat és negatiu, **es resta** dels ingressos.
+
+| Ingressos d'explotació | |
+|---|---|
+| Vendes | 60.000 € |
+| − Variació exist. productes acabats | −3.000 € |
+| **Total ingressos d'explotació** | **57.000 €** |
+
+L'empresa ha venut producte que tenia fabricat d'anys anteriors. Ha "consumit" estoc previ, per tant els ingressos es redueixen.
+
+---
+
+#### Tipus 2: Existències comercials i matèries primeres (va als aprovisionaments)
+
+#### Exercici 3 — Existències finals > inicials
+
+Una botiga de roba té les dades següents:
+- Compres de mercaderies: 30.000 €
+- Existències inicials de mercaderies: 4.000 €
+- Existències finals de mercaderies: 9.000 €
+
+**Càlcul:**
+> Aprovisionaments = Compres + (Existències inicials − Existències finals) = 30.000 + (4.000 − 9.000) = 30.000 − 5.000 = **25.000 €**
+
+| Despeses d'explotació | |
+|---|---|
+| Compres | 30.000 € |
+| − Variació existències (9.000 − 4.000) | −5.000 € |
+| **Aprovisionaments** | **25.000 €** |
+
+L'empresa ha comprat 30.000 € però 5.000 € han quedat sense vendre al magatzem. La despesa real és menor que les compres.
+
+---
+
+#### Exercici 4 — Existències finals < inicials
+
+Una pastisseria té les dades següents:
+- Compres de matèries primeres: 15.000 €
+- Existències inicials de matèries primeres: 6.000 €
+- Existències finals de matèries primeres: 2.000 €
+
+**Càlcul:**
+> Aprovisionaments = Compres + (Existències inicials − Existències finals) = 15.000 + (6.000 − 2.000) = 15.000 + 4.000 = **19.000 €**
+
+| Despeses d'explotació | |
+|---|---|
+| Compres | 15.000 € |
+| + Variació existències (6.000 − 2.000) | +4.000 € |
+| **Aprovisionaments** | **19.000 €** |
+
+La pastisseria ha consumit 4.000 € de farina que tenia d'anys anteriors. Ha gastat més del que ha comprat aquest any, per tant la despesa real és major que les simples compres.
+
+#### Taula resum dels quatre casos
+
+| Tipus | Situació | Efecte |
+|---|---|---|
+| Productes acabats | Finals > inicials | Suma als ingressos (+) |
+| Productes acabats | Finals < inicials | Resta dels ingressos (−) |
+| Mercaderies / mat. primeres | Finals > inicials | Resta dels aprovisionaments (−) |
+| Mercaderies / mat. primeres | Finals < inicials | Suma als aprovisionaments (+) |
+
+---
