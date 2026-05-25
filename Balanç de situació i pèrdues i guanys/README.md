@@ -198,13 +198,23 @@ Imagina que tens una pastisseria. Durant tot l'any guanyes diners venent pastiss
 #### 1. Tipus 1: Productes acabats i en curs
 
 - On es col·loca: A la secció d'**Ingressos d'explotació**. Com funciona segons el document oficial:
-  - Si les existències finals són superiors a les inicials `EF > EI`: **Es suma** als ingressos. Aquells productes acumulats que no s'han venut han costat diners de fabricar (farina, llum, sous dels treballadors) i aquests costos ja estan restant a l'apartat de despeses. Com que aquests productes tenen un valor real i formen part de la producció d'aquest any, s'han de sumar als ingressos per compensar aquestes despeses i reconèixer el valor generat al magatzem. Si no els suméssim, el benefici de l'any semblaria molt més baix del que realment ha estat.
-  - Si les existències finals són inferiors a les inicials `EF < EI`: **Es resta** dels ingressos. La línia d'"Import net de la xifra de negocis" (les vendes) d'aquest any inclou la facturació d'aquests productes antics. Però atenció: el mèrit de fabricar-los, així com els seus costos de producció, van correspondre a l'any passat, no a aquest. Per tant, es resta de l'apartat d'ingressos per "netejar" la xifra de vendes, aconseguint que el Resultat d'Explotació reflecteixi única i exclusivament el benefici obtingut pel que s'ha produït durant el curs actual.
+  - Si les existències finals són superiors a les inicials `EF > EI`: **Es suma** als ingressos.
+
+    **Motius PiG:** Aquells productes acumulats que no s'han venut han costat diners de fabricar (farina, llum, sous dels treballadors) i aquests costos ja estan restant a l'apartat de despeses. Com que aquests productes tenen un valor real i formen part de la producció d'aquest any, s'han de sumar als ingressos per compensar aquestes despeses i reconèixer el valor generat al magatzem. Si no els suméssim, el benefici de l'any semblaria molt més baix del que realment ha estat.
+    
+  - Si les existències finals són inferiors a les inicials `EF < EI`: **Es resta** dels ingressos.
+
+    **Motius PiG:** La línia d'"Import net de la xifra de negocis" (les vendes) d'aquest any inclou la facturació d'aquests productes antics. Però atenció: el mèrit de fabricar-los, així com els seus costos de producció, van correspondre a l'any passat, no a aquest. Per tant, es resta de l'apartat d'ingressos per "netejar" la xifra de vendes, aconseguint que el Resultat d'Explotació reflecteixi única i exclusivament el benefici obtingut pel que s'ha produït durant el curs actual.
 
 #### 2. Tipus 2: Existències comercials i primeres matèries
 
 - On es col·loca: A la secció de **Despeses d'explotació**, modificant la partida d'Aprovisionaments.
 - Com funciona segons el document oficial:
-  - Si les existències finals són superiors a les inicials `EF > EI`: Significa que una part de les adquisicions no s'ha consumit. Per tant, la diferència es **resta de les compres** (provoca una menor despesa).
-  - Si les existències finals són inferiors a les inicials `EF} < EI`: Significa que s'han consumit més existències de les que s'havien comprat aquest any. Per tant, la diferència es **suma al valor de les compres** (provoca una major despesa).  
+  - Si les existències finals són superiors a les inicials `EF > EI`: Significa que una part de les adquisicions no s'ha consumit. Per tant, la diferència es **resta de les compres** (provoca una menor despesa ➔ **saldo creditor**).
+
+    **El motiu al PiG:** Imagina que compres farina per valor de 10.000 €, però a final d'any veus que et queden 2.000 € de farina al magatzem que no has tocat. La teva despesa real en farina no han estat els 10.000 € que vas pagar, sinó 8.000 €. Per tant, restem aquests 2.000 € de les compres per reduir la despesa (menor despesa). Estem treient de l'any actual un cost d'un producte que es consumirà l'any vinent.
+    
+  - Si les existències finals són inferiors a les inicials `EF < EI`: Significa que s'han consumit més existències de les que s'havien comprat aquest any. Per tant, la diferència es **suma al valor de les compres** (provoca una major despesa ➔ **saldo deutor**).
+
+    **El motiu al PiG:** Imagina que aquest any compres farina per valor de 10.000 €, però com que has tingut molts clients, vas al magatzem i gastes 3.000 € de farina que tenies guardada de l'any passat. Quanta farina has consumit en total? Doncs els 10.000 € d'ara més els 3.000 € del passat. Per tant, sumem aquests 3.000 € al valor de les compres per augmentar la despesa (major despesa), perquè el cost real del que has gastat per fer el teu negoci ha estat superior a les compres d'aquest curs.
 
