@@ -208,5 +208,3 @@ Imagina que tens una pastisseria. Durant tot l'any guanyes diners venent pastiss
   - Si les existències finals són superiors a les inicials `EF > EI`: Significa que una part de les adquisicions no s'ha consumit. Per tant, la diferència es **resta de les compres** (provoca una menor despesa).
   - Si les existències finals són inferiors a les inicials `EF} < EI`: Significa que s'han consumit més existències de les que s'havien comprat aquest any. Per tant, la diferència es **suma al valor de les compres** (provoca una major despesa).  
 
-
----
