@@ -198,8 +198,8 @@ Imagina que tens una pastisseria. Durant tot l'any guanyes diners venent pastiss
 #### 1. Tipus 1: Productes acabats i en curs
 
 - On es col·loca: A la secció d'**Ingressos d'explotació**. Com funciona segons el document oficial:
-  - Si les existències finals són superiors a les inicials `EF > EI`: **Es suma** als ingressos.
-  - Si les existències finals són inferiors a les inicials `EF < EI`: **Es resta** dels ingressos.
+  - Si les existències finals són superiors a les inicials `EF > EI`: **Es suma** als ingressos. Aquells productes acumulats que no s'han venut han costat diners de fabricar (farina, llum, sous dels treballadors) i aquests costos ja estan restant a l'apartat de despeses. Com que aquests productes tenen un valor real i formen part de la producció d'aquest any, s'han de sumar als ingressos per compensar aquestes despeses i reconèixer el valor generat al magatzem. Si no els suméssim, el benefici de l'any semblaria molt més baix del que realment ha estat.
+  - Si les existències finals són inferiors a les inicials `EF < EI`: **Es resta** dels ingressos. La línia d'"Import net de la xifra de negocis" (les vendes) d'aquest any inclou la facturació d'aquests productes antics. Però atenció: el mèrit de fabricar-los, així com els seus costos de producció, van correspondre a l'any passat, no a aquest. Per tant, es resta de l'apartat d'ingressos per "netejar" la xifra de vendes, aconseguint que el Resultat d'Explotació reflecteixi única i exclusivament el benefici obtingut pel que s'ha produït durant el curs actual.
 
 #### 2. Tipus 2: Existències comercials i primeres matèries
 
