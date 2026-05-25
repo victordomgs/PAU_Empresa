@@ -195,135 +195,18 @@ Imagina que tens una pastisseria. Durant tot l'any guanyes diners venent pastiss
 
 ### Variació d'existències
 
-La variació d'existències és un dels punts més importants i alhora més confusos del compte de pèrdues i guanys. Existeixen dos tipus, i és fonamental no barrejar-los perquè cadascun funciona de manera diferent i va a un lloc diferent del compte.
+#### 1. Tipus 1: Productes acabats i en curs
 
-#### Tipus 1: Variació d'existències de productes acabats i en curs
+- On es col·loca: A la secció d'**Ingressos d'explotació**.
+  - Com funciona segons el document oficial:  Si les existències finals són superiors a les inicials `EF > EI`: **Es suma** als ingressos.
+  - Si les existències finals són inferiors a les inicials `EF < EI`: **Es resta** dels ingressos.
 
-#### On va: als ingressos d'explotació.
+#### 2. Tipus 2: Existències comercials i primeres matèries
 
-Fa referència als productes que l'empresa ha fabricat ella mateixa. Per exemple, una fàbrica de cadires que fabrica 1.000 unitats però en ven 800: les 200 restants han quedat al magatzem. Això té valor, i el compte de pèrdues i guanys ho ha de reflectir.
+- On es col·loca: A la secció de **Despeses d'explotació**, modificant la partida d'Aprovisionaments.
+- Com funciona segons el document oficial:
+  - Si les existències finals són superiors a les inicials `EF > EI`: Significa que una part de les adquisicions no s'ha consumit. Per tant, la diferència es **resta de les compres** (provoca una menor despesa).
+  - Si les existències finals són inferiors a les inicials `EF} < EI`: Significa que s'han consumit més existències de les que s'havien comprat aquest any. Per tant, la diferència es **suma al valor de les compres** (provoca una major despesa).  
 
-Com es calcula:
-
-```
-Variació = Existències finals − Existències inicials
-```
-
-- Si les existències finals **són majors** que les inicials → la diferència se suma als ingressos. Significa que l'empresa ha produït més del que ha venut, i aquell producte acumulat representa valor generat.
-- Si les existències finals **són menors** que les inicials → la diferència es resta dels ingressos. Significa que l'empresa ha venut producte que ja tenia d'anys anteriors, i per tant ha "consumit" estoc previ.
-
-#### Tipus 2: Variació d'existències comercials i matèries primeres
-
-#### On va: a les despeses d'explotació, dins la partida "aprovisionaments".
-
-Fa referència als materials que l'empresa ha comprat a proveïdors, ja sigui per revendre'ls directament o per transformar-los. La idea és que la despesa real no és el que has comprat, sinó el que realment has consumit o venut.
-
-Com es calcula:
-
-```
-Aprovisionaments = Compres + (Existències inicials − Existències finals)
-```
-
-- Si les existències finals **són majors** que les inicials → la diferència es resta de les compres (menys despesa). Significa que part del que has comprat ha quedat sense consumir al magatzem, i per tant no és una despesa real d'aquest any.
-- Si les existències finals **són menors** que les inicials → la diferència se suma a les compres (més despesa). Significa que has consumit més del que has comprat aquest any, tirant d'estoc que tenies d'abans.
-
----
-
-### Exemples càlculs de variació d'existències
-
-#### Tipus 1: Productes acabats i en curs (va als ingressos)
-
-#### Exercici 1 — Existències finals > inicials
-
-Una empresa de mobles té les dades següents:
-- Vendes: 80.000 €
-- Existències inicials de productes acabats: 3.000 €
-- Existències finals de productes acabats: 7.000 €
-
-**Càlcul:**
-> Variació = Existències finals − Existències inicials = 7.000 − 3.000 = **+4.000 €**
-
-Com que el resultat és positiu, **se suma** als ingressos.
-
-| Ingressos d'explotació | |
-|---|---|
-| Vendes | 80.000 € |
-| + Variació exist. productes acabats | +4.000 € |
-| **Total ingressos d'explotació** | **84.000 €** |
-
-L'empresa ha fabricat producte que ha quedat al magatzem. Aquell producte té valor, per tant els ingressos augmenten.
-
----
-
-#### Exercici 2 — Existències finals < inicials
-
-Una empresa de conserves té les dades següents:
-- Vendes: 60.000 €
-- Existències inicials de productes acabats: 8.000 €
-- Existències finals de productes acabats: 5.000 €
-
-**Càlcul:**
-> Variació = Existències finals − Existències inicials = 5.000 − 8.000 = **−3.000 €**
-
-Com que el resultat és negatiu, **es resta** dels ingressos.
-
-| Ingressos d'explotació | |
-|---|---|
-| Vendes | 60.000 € |
-| − Variació exist. productes acabats | −3.000 € |
-| **Total ingressos d'explotació** | **57.000 €** |
-
-L'empresa ha venut producte que tenia fabricat d'anys anteriors. Ha "consumit" estoc previ, per tant els ingressos es redueixen.
-
----
-
-#### Tipus 2: Existències comercials i matèries primeres (va als aprovisionaments)
-
-#### Exercici 3 — Existències finals > inicials
-
-Una botiga de roba té les dades següents:
-- Compres de mercaderies: 30.000 €
-- Existències inicials de mercaderies: 4.000 €
-- Existències finals de mercaderies: 9.000 €
-
-**Càlcul:**
-> Aprovisionaments = Compres + (Existències inicials − Existències finals) = 30.000 + (4.000 − 9.000) = 30.000 − 5.000 = **25.000 €**
-
-| Despeses d'explotació | |
-|---|---|
-| Compres | 30.000 € |
-| − Variació existències (9.000 − 4.000) | −5.000 € |
-| **Aprovisionaments** | **25.000 €** |
-
-L'empresa ha comprat 30.000 € però 5.000 € han quedat sense vendre al magatzem. La despesa real és menor que les compres.
-
----
-
-#### Exercici 4 — Existències finals < inicials
-
-Una pastisseria té les dades següents:
-- Compres de matèries primeres: 15.000 €
-- Existències inicials de matèries primeres: 6.000 €
-- Existències finals de matèries primeres: 2.000 €
-
-**Càlcul:**
-> Aprovisionaments = Compres + (Existències inicials − Existències finals) = 15.000 + (6.000 − 2.000) = 15.000 + 4.000 = **19.000 €**
-
-| Despeses d'explotació | |
-|---|---|
-| Compres | 15.000 € |
-| + Variació existències (6.000 − 2.000) | +4.000 € |
-| **Aprovisionaments** | **19.000 €** |
-
-La pastisseria ha consumit 4.000 € de farina que tenia d'anys anteriors. Ha gastat més del que ha comprat aquest any, per tant la despesa real és major que les simples compres.
-
-#### Taula resum dels quatre casos
-
-| Tipus | Situació | Efecte |
-|---|---|---|
-| Productes acabats | Finals > inicials | Suma als ingressos (+) |
-| Productes acabats | Finals < inicials | Resta dels ingressos (−) |
-| Mercaderies / mat. primeres | Finals > inicials | Resta dels aprovisionaments (−) |
-| Mercaderies / mat. primeres | Finals < inicials | Suma als aprovisionaments (+) |
 
 ---
