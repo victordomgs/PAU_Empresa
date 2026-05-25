@@ -197,8 +197,8 @@ Imagina que tens una pastisseria. Durant tot l'any guanyes diners venent pastiss
 
 #### 1. Tipus 1: Productes acabats i en curs
 
-- On es col·loca: A la secció d'**Ingressos d'explotació**.
-  - Com funciona segons el document oficial:  Si les existències finals són superiors a les inicials `EF > EI`: **Es suma** als ingressos.
+- On es col·loca: A la secció d'**Ingressos d'explotació**. Com funciona segons el document oficial:
+  - Si les existències finals són superiors a les inicials `EF > EI`: **Es suma** als ingressos.
   - Si les existències finals són inferiors a les inicials `EF < EI`: **Es resta** dels ingressos.
 
 #### 2. Tipus 2: Existències comercials i primeres matèries
