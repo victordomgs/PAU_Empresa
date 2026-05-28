@@ -1,4 +1,4 @@
-<h1 align="center">Balanç de situació i pèrdues i guanys
+<h1 align="center">Balanç de situació, pèrdues i guanys i ràtios financeres
 <div align="center">
 
 </div>
@@ -8,6 +8,7 @@
 - [1. El patrimoni empresarial](#1-el-patrimoni-empresarial)  
 - [2. El Balanç de situació](#2-el-balanç-de-situació)
 - [3. Pèrdues i guanys](#3-pèrdues-i-guanys)
+- [4. Ràtios financeres i indicadors de rendibilitat](#4-ràtios-financeres-i-indicadors-de-rendibilitat)
 
 <br>
 
@@ -218,3 +219,167 @@ Imagina que tens una pastisseria. Durant tot l'any guanyes diners venent pastiss
 
     **El motiu al PiG:** Imagina que aquest any compres farina per valor de 10.000 €, però com que has tingut molts clients, vas al magatzem i gastes 3.000 € de farina que tenies guardada de l'any passat. Quanta farina has consumit en total? Doncs els 10.000 € d'ara més els 3.000 € del passat. Per tant, sumem aquests 3.000 € al valor de les compres per augmentar la despesa (major despesa), perquè el cost real del que has gastat per fer el teu negoci ha estat superior a les compres d'aquest curs.
 
+<br>
+
+## 4. Ràtios financeres i indicadors de rendibilitat
+
+Les ràtios financeres permeten analitzar l'equilibri financer de l'empresa, és a dir, la seva capacitat per fer front als deutes i la qualitat del seu finançament.
+
+> [!NOTE]
+> Els valors ideals són **relatius** i depenen del tipus d'empresa i del sector d'activitat. Els valors de referència indicats són d'ús general.
+
+### Ràtio de Disponibilitat
+
+**Què mesura:** La capacitat de l'empresa per afrontar els seus pagaments a curt termini utilitzant únicament l'efectiu i els actius més líquids (caixa i bancs).
+
+**Fórmula:**
+
+$$\text{Disponibilitat} = \frac{\text{Disponible}}{\text{Passiu Corrent}}$$
+
+on **Disponible** = Efectiu i altres actius líquids (caixa + bancs)
+
+**Valors òptims:**
+- Valor de referència: **0,3**
+- Rang òptim: entre **0,3 i 0,4**
+- Si és **< 0,3** → pot indicar problemes per afrontar els pagaments (manca de liquiditat immediata)
+- Si és **> 0,4** → l'empresa pot estar perdent rendibilitat dels seus actius (excés de diners inactius)
+
+### Ràtio de Tresoreria
+
+**Què mesura:** La capacitat de l'empresa per pagar els seus deutes a curt termini amb els actius líquids i quasi-líquids (sense comptar les existències, que són menys fàcils de convertir en diners).
+
+**Fórmula:**
+
+$$\text{Tresoreria} = \frac{\text{Realitzable} + \text{Disponible}}{\text{Passiu Corrent}}$$
+
+on:
+- **Realitzable** = Deutors comercials i altres comptes a cobrar + Inversions financeres a curt termini
+- **Disponible** = Efectiu i altres actius líquids
+
+**Valors òptims:**
+- Valor de referència: **pròxim a 1**
+- Si és **< 1** → l'empresa no pot pagar els deutes a curt termini amb els recursos a curt termini disponibles
+- Si és **> 1** → excés de liquiditat; l'empresa pot estar perdent rendibilitat dels seus actius
+
+### Ràtio de Liquiditat
+
+**Què mesura:** La capacitat de l'empresa per fer front als seus deutes a curt termini amb tots els actius corrents (incloent-hi les existències). També es coneix com a **ràtio de fons de maniobra** o **ràtio de solvència a curt termini**.
+
+**Fórmula:**
+
+$$\text{Liquiditat} = \frac{\text{Actiu Corrent}}{\text{Passiu Corrent}}$$
+
+**Valors òptims:**
+- Rang de referència: entre **1,5 i 2**
+- Si el **Fons de Maniobra (FM) ≥ 0** (positiu) → l'empresa està en **equilibri financer**
+- El FM positiu indica que una part de l'actiu corrent es finança amb recursos permanents, cosa que és una garantia d'estabilitat
+- Si el FM és **negatiu** → l'actiu fix estaria finançat amb exigible a curt termini, la qual cosa podria portar a una **suspensió de pagaments**
+
+> [!NOTE]
+> **Fons de Maniobra (FM)** = Actiu Corrent − Passiu Corrent
+
+### Ràtio de Solvència (o Ràtio de Garantia)
+
+**Què mesura:** La capacitat total de l'empresa per fer front a la totalitat dels seus deutes (tant a curt com a llarg termini) amb tots els seus actius. Indica si els béns de l'empresa cobreixen els deutes totals.
+
+**Fórmula:**
+
+$$\text{Solvència} = \frac{\text{Actiu Total}}{\text{Deutes Totals}}$$
+
+on **Deutes Totals** = Passiu Corrent + Passiu No Corrent
+
+**Valors òptims:**
+- Valor de referència: **superior a 1 i pròxim a 2**
+- A mesura que s'aproxima a **1** → augmenta el risc de fallida
+- Si és **< 1** → l'empresa es troba en situació de **fallida** (els deutes superen els actius)
+
+### Ràtio d'Endeutament
+
+**Què mesura:** El grau de dependència de l'empresa respecte al finançament extern (deutes). Indica quina proporció del total dels recursos de l'empresa prové de deutes.
+
+**Fórmula:**
+
+$$\text{Endeutament} = \frac{\text{Deutes Totals}}{\text{Total Patrimoni Net i Passiu}}$$
+
+on **Deutes Totals** = Passiu Corrent + Passiu No Corrent
+
+**Valors òptims:**
+- Rang de referència: entre **0,4 i 0,6**
+- Com més **alt** sigui el valor → major dependència del finançament extern
+- Com més **baix** sigui el valor → major autonomia financera (finançament propi)
+
+### Ràtio d'Estructura del Deute
+
+**Què mesura:** La qualitat del deute de l'empresa; concretament, quina proporció del deute total és a curt termini. Un deute de bona qualitat és principalment a llarg termini, ja que dóna més temps per ser retornat.
+
+**Fórmula:**
+
+$$\text{Estructura del Deute} = \frac{\text{Passiu Corrent}}{\text{Deutes Totals}}$$
+
+on **Deutes Totals** = Passiu Corrent + Passiu No Corrent
+
+**Valors òptims:**
+- El valor de referència hauria d'estar **molt a prop de zero**
+- Com més **petit** sigui el valor, millor per a l'empresa (menys proporció de deute a curt termini)
+- Si supera **0,5** (p. ex. 0,83) → el 83% dels deutes són a curt termini → **deute de mala qualitat**
+
+### Indicadors de Rendibilitat
+
+Els indicadors de rendibilitat mesuren la capacitat de l'empresa per generar beneficis en relació amb els recursos utilitzats.
+
+#### Rendibilitat Econòmica (RE) — ROA
+
+**Què mesura:** El benefici generat pels actius de l'empresa **sense tenir en compte** el cost de finançament. Indica l'eficàcia de la gestió i la capacitat dels actius per generar valor.
+
+**Fórmula:**
+
+$$\text{RE} = \frac{\text{BAII}}{\text{Total Actiu}} \times 100$$
+
+on **BAII** = Benefici Abans d'Interessos i Impostos (= Resultat d'Explotació)
+
+**Interpretació:**
+- Com més **alt**, millor → calen pocs actius per obtenir un benefici alt
+- El resultat en percentatge indica els euros que guanya l'empresa per cada **100 € invertits** en actius, abans de descomptar interessos i impostos
+- *Exemple: RE = 9,5% → cada 100 € d'inversió en actiu generen 9,5 € de BAII*
+
+#### Rendibilitat Financera (RF) — ROE
+
+**Què mesura:** El rendiment que obté el capital aportat pels propietaris (recursos propis) en funció del benefici net. Mesura la remuneració als accionistes o socis de l'empresa.
+
+**Fórmula:**
+
+$$\text{RF} = \frac{\text{Benefici Net}}{\text{Patrimoni Net}} \times 100$$
+
+**Interpretació:**
+- Com més **alt**, majors beneficis per als inversors
+- El resultat en percentatge indica els euros de benefici net per cada **100 € de recursos propis**
+- *Exemple: RF = 9% → per cada 100 € de recursos propis s'obtenen 9 € de benefici net*
+
+#### Rendibilitat de les Vendes (RV)
+
+**Què mesura:** La proporció de benefici (BAII) que s'obté per cada euro de vendes. Indica el marge de benefici que genera l'activitat comercial de l'empresa.
+
+**Fórmula:**
+
+$$\text{RV} = \frac{\text{BAII}}{\text{Import Net de la Xifra de Negocis}} \times 100$$
+
+on **Import Net de la Xifra de Negocis** = Vendes netes de productes o serveis
+
+**Interpretació:**
+- Com més **alt**, més rendibles són les vendes
+- El resultat en percentatge indica els euros de BAII generats per cada **100 € de vendes**
+- *Exemple: RV = 24,8% → per cada 100 € de vendes, l'empresa genera 24,8 € de BAII*
+
+## Resum de Fórmules
+
+| Ràtio | Fórmula | Valor Òptim |
+|---|---|---|
+| Disponibilitat | Disponible / Passiu Corrent | 0,3 – 0,4 |
+| Tresoreria | (Realitzable + Disponible) / Passiu Corrent | ≈ 1 |
+| Liquiditat | Actiu Corrent / Passiu Corrent | 1,5 – 2 |
+| Solvència | Actiu Total / Deutes Totals | > 1, pròxim a 2 |
+| Endeutament | Deutes Totals / Total PN i Passiu | 0,4 – 0,6 |
+| Estructura del Deute | Passiu Corrent / Deutes Totals | Proper a 0 |
+| Rendibilitat Econòmica | BAII / Total Actiu × 100 | Com més alt, millor |
+| Rendibilitat Financera | Benefici Net / Patrimoni Net × 100 | Com més alt, millor |
+| Rendibilitat de les Vendes | BAII / Import Net Vendes × 100 | Com més alt, millor |
