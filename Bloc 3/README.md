@@ -174,7 +174,7 @@ El **mapa d'empatia** és una eina que serveix per recopilar informació sobre e
 - Dissenyar accions de màrqueting més efectives.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image4.png" width="421" height="auto"/>
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image4.png" width="750" height="auto"/>
   </div>
 
 **Quatre passos per crear un mapa d'empatia:**
