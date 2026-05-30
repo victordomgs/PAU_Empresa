@@ -9,7 +9,6 @@
 - [2. El Balanç de situació](#2-el-balanç-de-situació)
 - [3. Pèrdues i guanys](#3-pèrdues-i-guanys)
 - [4. Ràtios financeres i indicadors de rendibilitat](#4-ràtios-financeres-i-indicadors-de-rendibilitat)
-- [5. Selecció millor inversió](#5-selecció-millor-inversió)
 
 <br>
 
