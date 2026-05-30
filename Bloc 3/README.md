@@ -180,7 +180,7 @@ El **mapa d'empatia** és una eina que serveix per recopilar informació sobre e
 Quatre passos per crear un mapa d'empatia:
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image5.png" width="750" height="auto"/>
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image5.png" width="850" height="auto"/>
   </div>
 
 ### Buyer Persona
