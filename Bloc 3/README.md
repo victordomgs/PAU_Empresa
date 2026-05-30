@@ -1,4 +1,4 @@
-<h1 align="center">Patrons de Model de Negoci i Eines per Innovar en Models de Negoci i de Gestió
+<h1 align="center">Patrons de model de negoci i eines per innovar
 <div align="center">
 
 </div>
