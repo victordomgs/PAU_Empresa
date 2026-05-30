@@ -1,9 +1,11 @@
 <h1 align="center">Selecció d'inversions
 <div align="center">
 
+</div>
+
 ## Continguts
 
-- [1. Selecció millor inversió](#1-selecció-millor-inversió)
+[1. Selecció millor inversió](#1-selecció-millor-inversió)
 
 ## 1. Selecció millor inversió
 
