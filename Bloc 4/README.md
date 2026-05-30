@@ -82,20 +82,9 @@ L'estudi de mercat analitza les característiques del mercat en què operaria el
 
 L'**anàlisi DAFO** (Debilitats, Amenaces, Fortaleses i Oportunitats) permet estudiar els quatre factors que caracteritzen el pla de negoci per veure com poden influir en les possibilitats d'èxit.
 
-```
-          FACTORS INTERNS         FACTORS EXTERNS
-         ┌─────────────────┬─────────────────────┐
-         │  FORTALESES (F) │  OPORTUNITATS (O)   │
-POSITIUS │ Avantatges      │ Tendències           │
-         │ interns del     │ favorables de        │
-         │ negoci          │ l'entorn             │
-         ├─────────────────┼─────────────────────┤
-         │  DEBILITATS (D) │  AMENACES (A)        │
-NEGATIUS │ Aspectes        │ Riscos i factors     │
-         │ interns a       │ externs desfavorables│
-         │ millorar        │                      │
-         └─────────────────┴─────────────────────┘
-```
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%204/images/image41.png" width="750" height="auto"/>
+  </div>
 
 - **Factors interns** (controlables per l'empresa): Fortaleses i Debilitats.
 - **Factors externs** (no controlables, de l'entorn): Oportunitats i Amenaces.
@@ -129,20 +118,10 @@ Respon a quatre preguntes bàsiques: **qui, què, com i quant**, desenvolupades 
 
 Els 9 blocs s'agrupen al voltant de la **Proposta de Valor** (element central):
 
-```
-┌──────────────┬───────────────────┬──────────────────┬──────────────────┐
-│ ASSOCIACIONS │  ACTIVITATS CLAU  │  PROPOSTA DE     │  RELACIÓ AMB     │
-│ CLAU         │                   │  VALOR           │  ELS CLIENTS     │
-│ (8)          │  (7)              │                  │  (4)             │
-│              ├───────────────────┤  (2)             ├──────────────────┤
-│              │  RECURSOS CLAU    │                  │  CANALS          │
-│              │  (6)              │                  │  (3)             │
-├──────────────┴───────────────────┴──────────────────┴──────────────────┤
-│ SEGMENTACIÓ DE CLIENTS (1)                                              │
-├──────────────────────────────────┬──────────────────────────────────────┤
-│ ESTRUCTURA DE COSTOS (9)         │  FONTS D'INGRESSOS (5)               │
-└──────────────────────────────────┴──────────────────────────────────────┘
-```
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%204/images/image42.png" width="1000" height="auto"/>
+  </div>
+
 
 **Ordre de construcció i descripció de cada bloc:**
 
