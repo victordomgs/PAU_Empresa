@@ -3,9 +3,6 @@
 
 </div>
 
-> **Assignatura:** Funcionament de l'Empresa i Disseny de Models de Negoci · PAU 2026  
-> **Normativa de referència:** Concreció del currículum per a les PAU 2025-2026
-
 ## Contingut:
 
 - [1. El patrimoni empresarial](#1-el-patrimoni-empresarial)  
