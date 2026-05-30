@@ -5,11 +5,15 @@
 
 ## Contingut:
 
-- [1. Patrons de models de negoci](#1-patrons-de-models-de-negoci)
-- [2. La R+D+I](#2-la-rdi)
-- [3. Estratègies d'innovació](#3-estratègies-dinnovació)
-- [4. Eines per innovar: Mapa d'empatia, Buyer Persona, Matriu ERIC i Oceans Blaus](#4-eines-per-innovar)
-- [5 Eines per presentar un projecte: Storytelling i Elevator Pitch](#5-eines-per-presentar-un-projecte)
+[1. Patrons de models de negoci](#1-patrons-de-models-de-negoci)
+
+[2. La R+D+I](#2-la-rdi)
+
+[3. Estratègies d'innovació](#3-estratègies-dinnovació)
+
+[4. Eines per innovar: Mapa d'empatia, Buyer Persona, Matriu ERIC i Oceans Blaus](#4-eines-per-innovar)
+
+[5 Eines per presentar un projecte: Storytelling i Elevator Pitch](#5-eines-per-presentar-un-projecte)
 
 <br>
 
