@@ -141,7 +141,7 @@ La **recerca, el desenvolupament i la innovació** (R+D+I) són essencials per a
 Els tres elements per destacar de la definició d’innovació són els següents:
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image3.png" width="421" height="auto"/>
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image3.png" width="550" height="auto"/>
   </div>
 
 ### Tipus d'innovació (per magnitud d'impacte)
