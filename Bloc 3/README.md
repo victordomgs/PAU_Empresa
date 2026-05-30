@@ -65,7 +65,7 @@ Els models **multiplataforma** tenen com a finalitat reunir com a mínim **dos g
 - La monetització s'obté habitualment mitjançant comissions per cada interacció.
 
   <div style="text-align: center;">
-    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image2.png" width="700" height="auto"/>
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image2.png" width="850" height="auto"/>
   </div>
 
 ### Model d'Aplicacions Mòbils (Apps)
