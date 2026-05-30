@@ -5,10 +5,10 @@
 
 ## Contingut:
 
-- [1. El patrimoni empresarial](#1-el-patrimoni-empresarial)  
-- [2. El Balanç de situació](#2-el-balanç-de-situació)
-- [3. Pèrdues i guanys](#3-pèrdues-i-guanys)
-- [4. Ràtios financeres i indicadors de rendibilitat](#4-ràtios-financeres-i-indicadors-de-rendibilitat)
+[1. El patrimoni empresarial](#1-el-patrimoni-empresarial)  
+[2. El Balanç de situació](#2-el-balanç-de-situació)
+[3. Pèrdues i guanys](#3-pèrdues-i-guanys)
+[4. Ràtios financeres i indicadors de rendibilitat](#4-ràtios-financeres-i-indicadors-de-rendibilitat)
 
 <br>
 
