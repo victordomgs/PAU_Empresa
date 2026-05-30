@@ -50,6 +50,8 @@ El model **long tail** consisteix a vendre **poques unitats de molts productes**
 - El long tail és possible gràcies al comerç digital, que elimina les limitacions d'espai.
 - Estratègia: tenir menys quantitat de bestsellers i una àmplia varietat de productes de nínxol.
 
+image1
+
 **Exemple:** Amazon o iTunes, que disposen de milions de títols amb poca demanda individual però gran volum agregat.
 
 ### Model Multiplataforma (o Multilateral)
@@ -60,7 +62,7 @@ Els models **multiplataforma** tenen com a finalitat reunir com a mínim **dos g
 - **Efecte xarxa:** com més usuaris s'hi incorporen, més forta es fa la plataforma.
 - La monetització s'obté habitualment mitjançant comissions per cada interacció.
 
-**Exemples:** Google (uneix usuaris, creadors de contingut i anunciants), Airbnb (uneix hostes i allotjaments), Uber (uneix conductors i passatgers).
+image2
 
 ### Model d'Aplicacions Mòbils (Apps)
 
@@ -127,21 +129,14 @@ La **recerca, el desenvolupament i la innovació** (R+D+I) són essencials per a
 
 ## 3. Estratègies d'Innovació
 
-### Autors clau sobre la innovació
-
-| Autor i obra | Aportació principal |
-|---|---|
-| **Adam Smith** – *La riquesa de les nacions* (1776) | La divisió del treball com a motor del creixement. Parla d'"avenços mecànics", no d'"innovació". |
-| **Joseph Schumpeter** – *La teoria del desenvolupament econòmic* (1911) | La innovació com a motor del desenvolupament econòmic. L'empresari innovador trenca rutines i genera transformacions. Distingeix entre invenció i innovació. |
-| **Peter F. Drucker** – *La innovació i l'empresari innovador* (1985) | Dues fonts d'innovació: el que passa *dins* de l'empresa (fracassos, incongruències) i el que passa *fora* (canvis demogràfics, nous coneixements). |
-| **Michael E. Porter** – *L'avantatge competitiu de les nacions* (1990) | Les empreses han de potenciar el seu *know-how* i establir barreres d'entrada per mantenir l'avantatge competitiu. |
-| **Clayton Christensen** – *El dilema dels innovadors* (1997) | La **innovació disruptiva** comença en una veta de mercat aparentment menys atractiva i acaba desplaçant la tecnologia dominant. |
-| **Gary Hamel** – *Liderant la revolució* (2000), *El futur del management* (2007) | La innovació conceptual del negoci i del management com a canvis radicals en la manera de dirigir i gestionar l'empresa. |
-
 ### Conceptes clau
 
 - **Creativitat:** capacitat de generar noves idees per crear alguna cosa nova.
 - **Innovació (OCDE):** producte o procés nou o millorat que difereix significativament dels anteriors i s'ha posat a disposició del mercat o s'ha implementat.
+
+Els tres elements per destacar de la definició d’innovació són els següents:
+
+image3
 
 ### Tipus d'innovació (per magnitud d'impacte)
 
@@ -172,12 +167,11 @@ El **mapa d'empatia** és una eina que serveix per recopilar informació sobre e
 - Crear o modificar productes o mercats.
 - Dissenyar accions de màrqueting més efectives.
 
+image4
+
 **Quatre passos per crear un mapa d'empatia:**
 
-1. **Segmentar** → Identificar els diferents segments de clients.
-2. **Humanitzar** → Donar una identitat concreta al client tipus.
-3. **Empatitzar** → Posar-se al lloc del client (què veu, sent, pensa, fa, quins són els seus problemes i les seves motivacions).
-4. **Validar** → Contrastar les hipòtesis amb dades reals.
+image5
 
 ### Buyer Persona
 
@@ -198,6 +192,8 @@ La **matriu ERIC** (o esquema de les quatre accions) és una eina analítica per
 | **R** | **Reduir** | Quins factors cal reduir per sota del estàndard del sector? |
 | **I** | **Incrementar** | Quins factors cal incrementar per sobre de l'estàndard del sector? |
 | **C** | **Crear** | Quins factors que el sector mai no ha ofert cal crear? |
+
+image6
 
 ### Oceans Blaus
 
