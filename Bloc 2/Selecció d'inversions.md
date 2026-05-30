@@ -3,7 +3,7 @@
 
 </div>
 
-## Continguts
+## Contingut:
 
 [1. Selecció millor inversió](#1-selecció-millor-inversió)
 
