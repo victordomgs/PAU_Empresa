@@ -50,7 +50,9 @@ El model **long tail** consisteix a vendre **poques unitats de molts productes**
 - El long tail és possible gràcies al comerç digital, que elimina les limitacions d'espai.
 - Estratègia: tenir menys quantitat de bestsellers i una àmplia varietat de productes de nínxol.
 
-image1
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image1.png" width="421" height="auto"/>
+  </div>
 
 **Exemple:** Amazon o iTunes, que disposen de milions de títols amb poca demanda individual però gran volum agregat.
 
@@ -62,7 +64,9 @@ Els models **multiplataforma** tenen com a finalitat reunir com a mínim **dos g
 - **Efecte xarxa:** com més usuaris s'hi incorporen, més forta es fa la plataforma.
 - La monetització s'obté habitualment mitjançant comissions per cada interacció.
 
-image2
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image2.png" width="421" height="auto"/>
+  </div>
 
 ### Model d'Aplicacions Mòbils (Apps)
 
@@ -136,7 +140,9 @@ La **recerca, el desenvolupament i la innovació** (R+D+I) són essencials per a
 
 Els tres elements per destacar de la definició d’innovació són els següents:
 
-image3
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image3.png" width="421" height="auto"/>
+  </div>
 
 ### Tipus d'innovació (per magnitud d'impacte)
 
@@ -167,11 +173,15 @@ El **mapa d'empatia** és una eina que serveix per recopilar informació sobre e
 - Crear o modificar productes o mercats.
 - Dissenyar accions de màrqueting més efectives.
 
-image4
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image4.png" width="421" height="auto"/>
+  </div>
 
 **Quatre passos per crear un mapa d'empatia:**
 
-image5
+  <div style="text-align: center;">
+    <img src="https://github.com/victordomgs/PAU_Empresa/blob/main/Bloc%203/images/image5.png" width="421" height="auto"/>
+  </div>
 
 ### Buyer Persona
 
